@@ -8,26 +8,27 @@ I am a Software Engineering student at Donghua University, exploring open source
 
 This repository records my journey of learning:
 
-- Git and GitHub collaboration workflow
-- Open source contribution practices
-- Technical documentation writing
-- Software engineering development habits
+* Git and GitHub collaboration workflow
+* Open source contribution practices
+* Technical documentation writing
+* Software engineering development habits
 
 ## Learning Progress
 
-### Git & GitHub
+### Git \& GitHub
 
-- [x] Create GitHub account
-- [x] Learn repository management
-- [x] Understand commit workflow
-- [ ] Submit first Pull Request
-- [ ] Participate in open source projects
+* \[x] Create GitHub account
+* \[x] Learn repository management
+* \[x] Understand commit workflow
+* \[ ] Submit first Pull Request
+* \[ ] Participate in open source projects
 
 ### Technical Writing
 
-- [ ] Write original technical articles
-- [ ] Share development notes
-- [ ] Build documentation skills
+* \[ ] Write original technical articles
+* \[ ] Share development notes
+* \[ ] Build documentation skills
+
 
 
 ## Goals
@@ -38,3 +39,18 @@ My goal is to improve my ability to collaborate with developers worldwide and co
 
 GitHub:
 https://github.com/ZoeHanDev
+
+
+
+
+
+\## My First Local Git Update
+
+
+
+\- Learned Git clone
+
+\- Learned commit workflow
+
+\- Practicing GitHub collaboration
+
